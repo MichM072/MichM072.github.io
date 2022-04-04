@@ -1,3 +1,7 @@
+theme: jekyll-theme-midnight
+title: Michael Moor's page
+description: Currently under development!
+
 ## Welcome to my GitHub page
 
 ### Markdown
