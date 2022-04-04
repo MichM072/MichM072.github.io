@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-title: Michael Moor's page
+title: Testing!
 description: Currently under development!
 
 ## Welcome to my GitHub page
