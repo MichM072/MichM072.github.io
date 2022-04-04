@@ -1,7 +1,3 @@
-theme: jekyll-theme-midnight
-title: Testing!
-description: Currently under development!
-
 ## Welcome to my GitHub page
 
 ### Markdown
